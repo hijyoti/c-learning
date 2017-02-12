@@ -1,2 +1,3 @@
-# c-learning
-Leanring C Programming
+# Leanring C Programming
+
+Understanding the basics of C Programming
